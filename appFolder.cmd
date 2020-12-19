@@ -1,3 +1,4 @@
-rem This opens an explorer window of all the apps on your system (Make sure you run it from system32 though)
+rem Use command prompt as admin, NOT POWERSHELL. I tried and it did not work unfortuntly, so use command prompt.
+rem This is opens up a window displaying all your applications that are installed on your system.
 
 explorer shell:AppsFolder
